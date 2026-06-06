@@ -10,6 +10,8 @@
 
 This project analyzes Medicare Skilled Nursing Facility (SNF) utilization and payment data from the CMS Medicare Post-Acute Care (PAC) Public Use Files across five performance years (2019–2023). The analysis characterizes the national distribution of standardized SNF payments, examines geographic and dual-eligibility variation, and tracks longitudinal trends using a balanced provider panel.
 
+View completed analysis here - [Analysis of  Medicare Skilled Nursing Facility utilization and payment data (2019–2023)](https://m-chhay.github.io/medicare-analysis/)
+
 ---
 
 ## Repository Structure
